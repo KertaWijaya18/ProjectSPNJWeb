@@ -550,7 +550,7 @@ function checkStorageForCart() {
  */
 function initializeItem1() {
   item1Display.innerHTML += `<div class="one1-cart-item">
-  <img src="../img/caffe-americano-kerta2.jpg" alt="product" />
+  <img src="img/caffe-americano-kerta2.jpg" alt="product" />
     <div>
       <h3><span class="span-primary">Caffè</span> Americano</h3>
       <h4>Rp.33500</h4>
@@ -604,7 +604,7 @@ function initializeItem1() {
  */
 function initializeItem2() {
   item2Display.innerHTML += `<div class="two2-cart-item">
-  <img src="../img/misto-kerta.jpg" alt="product" />
+  <img src="img/misto-kerta.jpg" alt="product" />
     <div>
       <h3><span class="span-primary">Caffè</span> Misto</h3>
       <h4>Rp.41500</h4>
@@ -658,7 +658,7 @@ function initializeItem2() {
  */
 function initializeItem3() {
   item3Display.innerHTML += `<div class="three3-cart-item">
-  <img src="../img/caffe-americano-kerta.jpg" alt="product" />
+  <img src="img/caffe-americano-kerta.jpg" alt="product" />
     <div>
       <h3><span class="span-primary">Blonde Caffè</span> Americano</h3>
       <h4>Rp.44600</h4>
@@ -712,7 +712,7 @@ function initializeItem3() {
  */
 function initializeItem4() {
   item4Display.innerHTML += `<div class="four4-cart-item">
-  <img src="../img/roast-kerta.jpg" alt="product" />
+  <img src="img/roast-kerta.jpg" alt="product" />
     <div>
       <h3><span class="span-primary">Blonde</span> Roast</h3>
       <h4>Rp.32500</h4>
@@ -766,7 +766,7 @@ function initializeItem4() {
  */
 function initializeItem5() {
   item5Display.innerHTML += `<div class="five5-cart-item">
-  <img src="../img/dark-kerta.jpg" alt="product" />
+  <img src="img/dark-kerta.jpg" alt="product" />
     <div>
       <h3><span class="span-primary">Dark Roast</span> Coffee</h3>
       <h4>Rp.36000</h4>
@@ -820,7 +820,7 @@ function initializeItem5() {
  */
 function initializeItem6() {
   item6Display.innerHTML += `<div class="six6-cart-item">
-  <img src="../img/pices-kerta.jpg" alt="product" />
+  <img src="img/pices-kerta.jpg" alt="product" />
     <div>
       <h3><span class="span-primary">Pike Place®</span> Roast</h3>
       <h4>Rp.44700</h4>
@@ -874,7 +874,7 @@ function initializeItem6() {
  */
 function initializeItem7() {
   item7Display.innerHTML += `<div class="seven7-cart-item">
-  <img src="../img/decaf-kerta.jpg" alt="product" />
+  <img src="img/decaf-kerta.jpg" alt="product" />
     <div>
       <h3><span class="span-primary">Decaf Pike </span>Place® Roast</h3>
       <h4>Rp.36000</h4>
@@ -928,7 +928,7 @@ function initializeItem7() {
  */
 function initializeItem8() {
   item8Display.innerHTML += `<div class="eight8-cart-item">
-  <img src="../img/cappuccino-kerta2.jpg" alt="product" />
+  <img src="img/cappuccino-kerta2.jpg" alt="product" />
     <div>
       <h3><span class="span-primary">Cappu</span>ccino</h3>
       <h4>Rp.41500</h4>
@@ -982,7 +982,7 @@ function initializeItem8() {
  */
 function initializeItem9() {
   item9Display.innerHTML += `<div class="nine9-cart-item">
-  <img src="../img/cappuccino-kerta.jpg" alt="product" />
+  <img src="img/cappuccino-kerta.jpg" alt="product" />
     <div>
       <h3><span class="span-primary">Blonde</span> Cappuccino</h3>
       <h4>Rp.37500</h4>
@@ -1036,7 +1036,7 @@ function initializeItem9() {
  */
 function initializeItem10() {
   item10Display.innerHTML += `<div class="ten10-cart-item">
-  <img src="../img/espresso-kerta.jpg" alt="product" />
+  <img src="img/espresso-kerta.jpg" alt="product" />
     <div>
       <h3><span class="span-primary">Espr</span>esso</h3>
       <h4>Rp.46200</h4>
@@ -1090,7 +1090,7 @@ function initializeItem10() {
  */
 function initializeItem11() {
   item11Display.innerHTML += `<div class="eleven11-cart-item">
-  <img src="../img/espresso-macchiato-kerta.jpg" alt="product" />
+  <img src="img/espresso-macchiato-kerta.jpg" alt="product" />
     <div>
       <h3><span class="span-primary">Espresso</span> Macchiato</h3>
       <h4>Rp.35000</h4>
@@ -1144,7 +1144,7 @@ function initializeItem11() {
  */
 function initializeItem12() {
   item12Display.innerHTML += `<div class="twelve12-cart-item">
-  <img src="../img/flat-white-kerta.jpg" alt="product" />
+  <img src="img/flat-white-kerta.jpg" alt="product" />
     <div>
       <h3><span class="span-primary">Flat</span> White</h3>
       <h4>Rp.44000</h4>
