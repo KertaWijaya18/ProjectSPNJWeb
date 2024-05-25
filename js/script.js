@@ -188,7 +188,7 @@ function updateTotal(moneyChange) {
   totalAmount += moneyChange;
   localStorage.setItem("total", totalAmount.toString());
   if (totalAmount > 1) {
-    total.innerHTML = `<span class="span-primary">Total Amount:</span> $${totalAmount.toFixed(
+    total.innerHTML = `<span class="span-primary">Total Amount:</span> Rp${totalAmount.toFixed(
       2
     )}`;
   } else {
